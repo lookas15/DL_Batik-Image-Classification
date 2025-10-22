@@ -1,0 +1,3 @@
+# Ignore all dataset folders and images
+Dataset_Batik/data-batik-2025/test
+Dataset_Batik/data-batik-2025/train
